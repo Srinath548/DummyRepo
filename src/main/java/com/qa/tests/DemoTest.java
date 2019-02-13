@@ -13,7 +13,8 @@ public class DemoTest {
 		System.out.println("Addition");
 		int a=50;
 		int b=30;
-		Assert.assertEquals(80, a+b);		
+		int c=20;
+		Assert.assertEquals(100, a+b+c);		
 	}
 	
 	@Test
