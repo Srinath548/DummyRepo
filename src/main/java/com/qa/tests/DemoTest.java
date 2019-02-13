@@ -14,6 +14,7 @@ public class DemoTest {
 		int a=50;
 		int b=30;
 		int c=20;
+		int d=40;
 		Assert.assertEquals(100, a+b+c);		
 	}
 	
